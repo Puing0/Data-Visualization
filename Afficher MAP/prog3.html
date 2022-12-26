@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title> USTHB MAP</title>
+		<link rel="stylesheet" href="style.css">
+		<script type="text/javascript" src="d3.v3.js"></script>
+		<script type="text/javascript" src="d3.v4.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.js"></script>
+		<script src="https://d3js.org/d3-array.v2.min.js"></script>
+	</head>
+	<body style="overflow: hidden;">
+
+		<label for="Features">Features : </label>
+		<select onchange="specSelected();" name="" id="SpecID">
+			<option value="0">Select Feature</option>
+		</select>
+
+		<div class="navigation__background">&nbsp;</div>
+		<nav class="navigation__nav">
+			<ul class="navigation__list">
+			  <li class="navigation__item">
+				<a href="#about" class="navigation__link link1">Afficher les salles occupées dans un jour</a>
+			  </li>
+			  <li class="navigation__item">
+				<a href="#features" class="navigation__link link2">Afficher les salles occupées par chaque specialité</a>
+			  </li>
+			  <li class="navigation__item">
+				<a href="#tours" class="navigation__link link3">Afficher la localisation d'un prof</a>
+			  </li>
+			  <!-- <li class="navigation__item">
+				<a href="#story" class="navigation__link link4">Best Players</a>
+			  </li>
+			  <li class="navigation__item">
+				<a href="#book" class="navigation__link link5">Play now</a>
+			  </li> -->
+			</ul>
+		  </nav>
+
+		  <div id="app">
+
+			<!-- <h2 v-if="province" class="province-title">{{province.name}}</h2> -->
+			<div v-if="currentProvince" class="province-info">
+				<h3 class="text-center">{{currentProvince.name}}</h3>
+				<ul>
+				  <li>info1: {{currentProvince.name}}</li>
+				  <li>info2: {{currentProvince.name}}</li>
+				</ul>
+			  </div>
+			<svg></svg>
+		  </div>
+		  <script type="text/javascript" src="loadAndProcess.js"></script>
+
+	</body>
+</html>

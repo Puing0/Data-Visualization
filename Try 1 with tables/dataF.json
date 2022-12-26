@@ -1,0 +1,7573 @@
+[
+  {
+    "Filere": "ACAD",
+    "Grade": "L2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYS.INFO ",
+            "Salle": "149T",
+            "Prof": "DJIROUNE"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "LOG.MATH ",
+            "Salle": "149T",
+            "Prof": "KESSI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ARCHI1 ",
+            "Salle": "149T",
+            "Prof": "BOUCHENE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ARCHI1",
+            "Salle": "414",
+            "Prof": "BOUCHENE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOG.MATH",
+            "Salle": "420",
+            "Prof": "KESSI ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOG.MATH",
+            "Salle": "385",
+            "Prof": "MAZOUZ",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C5",
+            "Prof": "TAIR",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "LOG.MATH",
+            "Salle": "358",
+            "Prof": "KESSI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "PROB.STAT",
+            "Salle": "320",
+            "Prof": "Bouachi",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ALGO.S.D ",
+            "Salle": "421T",
+            "Prof": "BOUKHEDOUMA"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "265",
+            "Prof": "BOUKHEDOUMA",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ALGO.S.D ",
+            "Salle": "421T",
+            "Prof": "BOUKHEDOUMA"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "418",
+            "Prof": "OUAZAR ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "SYS.INFO",
+            "Salle": "442",
+            "Prof": "DJIROUNE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS.INFO",
+            "Salle": "463",
+            "Prof": "DJIROUNE ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "458",
+            "Prof": "OUAZAR",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYS.INFO",
+            "Salle": "416",
+            "Prof": "DJIROUNE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "MATH.INFO",
+            "Salle": "350",
+            "Prof": "BEHLOUL",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "MATH.INFO ",
+            "Salle": "395T",
+            "Prof": "BEHLOUL"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "PROB.STAT",
+            "Salle": "414",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "106",
+            "Prof": "BOUCHENE ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "MATH.INFO",
+            "Salle": "102",
+            "Prof": "BEHLOUL",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "MATH.INFO",
+            "Salle": "102",
+            "Prof": "BEHLOUL ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "PROB.STAT",
+            "Salle": "412",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "106",
+            "Prof": "BOUCHENE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C4",
+            "Prof": "SOUADIA ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C5",
+            "Prof": "TAIR",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C5",
+            "Prof": "SOUADIA",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "PROB.STAT ",
+            "Salle": "SC",
+            "Prof": "AISSANI"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ACAD",
+    "Grade": "L2",
+    "Section": "B",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MATH.INFO",
+            "Salle": "405",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "PROB.STAT",
+            "Salle": "457",
+            "Prof": "BEHLOUL",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "449",
+            "Prof": "BESSAA",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "PROB.STAT",
+            "Salle": "379",
+            "Prof": "BEHLOUL ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "381",
+            "Prof": "BESSAA ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "MATH.INFO",
+            "Salle": "383",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "PROB.STAT ",
+            "Salle": "301D",
+            "Prof": "BEHLOUL"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": [
+          {
+            "Module": "ALGO.S.D ",
+            "Salle": "119T",
+            "Prof": "BESSAA"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C4",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C5",
+            "Prof": "ABDELLAHOUM",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C3B",
+            "Prof": "ABDELLAHOUM ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP126",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "MATH.INFO ",
+            "Salle": "SC",
+            "Prof": "DAHMANI"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "LOG.MATH",
+            "Salle": "379",
+            "Prof": "KADDOURI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "MATH.INFO",
+            "Salle": "412",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "414",
+            "Prof": "MEKHALDI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ARCHI1",
+            "Salle": "416",
+            "Prof": "MEKHALDI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOG.MATH",
+            "Salle": "454",
+            "Prof": "KADDOURI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ARCHI1 ",
+            "Salle": "161T",
+            "Prof": "MEKHALDI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "MATH.INFO",
+            "Salle": "421T",
+            "Prof": "DAHMANI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "LOG.MATH ",
+            "Salle": "R7",
+            "Prof": "KADDOURI"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ALGO.S.D ",
+            "Salle": "119T",
+            "Prof": "BESSAA"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYS.INFO ",
+            "Salle": "119T",
+            "Prof": "DJIROUNE"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "389",
+            "Prof": "BESSAA ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "SYS.INFO",
+            "Salle": "443",
+            "Prof": "DJIROUNE ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOG.MATH",
+            "Salle": "449",
+            "Prof": "KADDOURI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYS.INFO",
+            "Salle": "358",
+            "Prof": "DJIROUNE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "362",
+            "Prof": "MEKHALDI ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "PROB.STAT",
+            "Salle": "437",
+            "Prof": "BEHLOUL",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS.INFO",
+            "Salle": "TP.C5",
+            "Prof": "DJIROUNE",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ACAD",
+    "Grade": "L2",
+    "Section": "C",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO.S.D ",
+            "Salle": "R8",
+            "Prof": "SMAILI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ARCHI1 ",
+            "Salle": "119T",
+            "Prof": "FEREDJ"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "104",
+            "Prof": "SMAILI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "108",
+            "Prof": "FEREDJ ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "SYS.INFO",
+            "Salle": "106",
+            "Prof": "AZZOUZ",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS.INFO",
+            "Salle": "F",
+            "Prof": "AZZOUZ ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C4",
+            "Prof": "SMAILI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MATH.INFO",
+            "Salle": "451",
+            "Prof": "Benbaziz ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "443",
+            "Prof": "SMAILI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO.S.D ",
+            "Salle": "C7",
+            "Prof": "SMAILI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP.C4",
+            "Prof": "SMAILI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYS.INFO ",
+            "Salle": "431T",
+            "Prof": "AZZOUZ"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS.INFO",
+            "Salle": "381",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "367",
+            "Prof": "SMAILI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MATH.INFO ",
+            "Salle": "167T",
+            "Prof": "Benbaziz"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ARCHI1",
+            "Salle": "449",
+            "Prof": "FEREDJ ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOG.MATH",
+            "Salle": "116",
+            "Prof": "MAZOUZ ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "MATH.INFO",
+            "Salle": "318",
+            "Prof": "Benbaziz",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "LOG.MATH",
+            "Salle": "410",
+            "Prof": "MAZOUZ ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "MATH.INFO",
+            "Salle": "406",
+            "Prof": "Benbaziz ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "440",
+            "Prof": "FEREDJ",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "PROB.STAT",
+            "Salle": "439",
+            "Prof": "BOUIBEDE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOG.MATH",
+            "Salle": "444",
+            "Prof": "MAZOUZ",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "LOG.MATH ",
+            "Salle": "395T",
+            "Prof": "MAZOUZ"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "PROB.STAT ",
+            "Salle": "C1",
+            "Prof": "BOUIBEDE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "PROB.STAT",
+            "Salle": "TP.C9",
+            "Prof": "BOUIBEDE ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "ALGO.S.D",
+            "Salle": "TP127",
+            "Prof": "BENGHENAME",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "PROB.STAT",
+            "Salle": "TP.C9",
+            "Prof": "BOUIBEDE",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ACAD",
+    "Grade": "L3",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "267",
+            "Prof": "BENKAOUHA",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "TH.GRAPH ",
+            "Salle": "228T",
+            "Prof": "BENKAOUHA"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "EXTR INFOR ",
+            "Salle": "228T",
+            "Prof": "ZELLAL"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "COMPIL",
+            "Salle": "E",
+            "Prof": "BOUAZABIA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "TP.C7",
+            "Prof": "BENKAOUHA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYS.EXP2 ",
+            "Salle": "161T",
+            "Prof": "BELGUERCHE"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "161T",
+            "Prof": "IOUALALEN-BOUKALA"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP130",
+            "Prof": "BELKHIR",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP130",
+            "Prof": "BELKHIR",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "385",
+            "Prof": "BENKAOUHA ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "GL",
+            "Salle": "358",
+            "Prof": "HAMMAL ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "373",
+            "Prof": "belhadi hiba",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GL ",
+            "Salle": "C1",
+            "Prof": "HAMMAL"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP122",
+            "Prof": "OUSSANE",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYS.EXP2 ",
+            "Salle": "143T",
+            "Prof": "BELGUERCHE"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "SC",
+            "Prof": "IOUALALEN-BOUKALA"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "407",
+            "Prof": "BELGUERCHE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "447",
+            "Prof": "belhadi hiba ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "GL",
+            "Salle": "150",
+            "Prof": "OULEFKI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "150",
+            "Prof": "BOUAZABIA ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "405",
+            "Prof": "BELGUERCHE",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "444",
+            "Prof": "BELGUERCHE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "RESEAUX ",
+            "Salle": "C1",
+            "Prof": "DJOUAMA"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP129",
+            "Prof": "",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP126",
+            "Prof": "OUSSANE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP.C7",
+            "Prof": "BENZAID ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP131",
+            "Prof": "Djeffal",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP127",
+            "Prof": "FRIHI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP126",
+            "Prof": "OUSSANE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP127",
+            "Prof": "FRIHI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP.C4",
+            "Prof": "BENZAID ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP126",
+            "Prof": "OUSSANE",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": [
+          {
+            "Module": "RESEAUX ",
+            "Salle": "119T",
+            "Prof": "DJOUAMA"
+          }
+        ]
+      },
+      "Jeu": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ACAD",
+    "Grade": "L3",
+    "Section": "B",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "243",
+            "Prof": "DJOUADI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "GL",
+            "Salle": "411",
+            "Prof": "BERKANI ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "350",
+            "Prof": "HIMRANE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "162",
+            "Prof": "DJOUADI ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "GL",
+            "Salle": "407",
+            "Prof": "BERKANI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP.C4",
+            "Prof": "NEMOUCHI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "126",
+            "Prof": "abdelli",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "C1",
+            "Prof": "KHELLAF"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RESEAUX ",
+            "Salle": "C2",
+            "Prof": "KHEROUA"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS.EXP2 ",
+            "Salle": "155T",
+            "Prof": "BOUYAKOUB"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP122",
+            "Prof": "KHEROUA",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP132",
+            "Prof": "KHEROUA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "303",
+            "Prof": "ALIOUANE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "305",
+            "Prof": "belhadi hiba",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GL ",
+            "Salle": "C2",
+            "Prof": "BERKANI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "GL",
+            "Salle": "403",
+            "Prof": "BERKANI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP128",
+            "Prof": "NEMOUCHI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP130",
+            "Prof": "belhadi hiba ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP128",
+            "Prof": "NEMOUCHI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "EXTR INFOR ",
+            "Salle": "167T",
+            "Prof": ""
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP.C4",
+            "Prof": "NEMOUCHI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C5",
+            "Prof": "MOULAI ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP129",
+            "Prof": "belhadi hiba",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYS.EXP2 ",
+            "Salle": "C2",
+            "Prof": "BOUYAKOUB"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "E8",
+            "Prof": "KHELLAF"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C3A",
+            "Prof": "MOULAI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "TH.GRAPH ",
+            "Salle": "R7",
+            "Prof": "DJOUADI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RESEAUX ",
+            "Salle": "SC",
+            "Prof": "KHEROUA"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "409",
+            "Prof": "AYAD ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP126",
+            "Prof": "KHEROUA",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "412",
+            "Prof": "AYAD ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP126",
+            "Prof": "KHEROUA",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "E1",
+            "Prof": "AYAD",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ACAD",
+    "Grade": "L3",
+    "Section": "C",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "GL",
+            "Salle": "387",
+            "Prof": "OULEFKI",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP122",
+            "Prof": "BOUAGAR",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GL",
+            "Salle": "389",
+            "Prof": "OULEFKI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP126",
+            "Prof": "BOUAGAR",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "EXTR INFOR ",
+            "Salle": "222T",
+            "Prof": "ZELLAL"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "GL",
+            "Salle": "450",
+            "Prof": "OULEFKI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP129",
+            "Prof": "DOUKHA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP122",
+            "Prof": "BOUZIANE ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP131",
+            "Prof": "",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL",
+            "Salle": "170",
+            "Prof": "HIMRANE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP130",
+            "Prof": "DOUKHA",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "161T",
+            "Prof": "HIMRANE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "132",
+            "Prof": "HIMRANE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C3B",
+            "Prof": "BELHADI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "358",
+            "Prof": "BOUKALA",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "170",
+            "Prof": "BOUKALA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP126",
+            "Prof": "Mekliche",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "RESEAUX ",
+            "Salle": "155T",
+            "Prof": "EL NAGGER"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP122",
+            "Prof": "EL NAGGER ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP128",
+            "Prof": "SAIGHI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "RESEAUX ",
+            "Salle": "C1",
+            "Prof": "EL NAGGER"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "445",
+            "Prof": "Mekliche ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "TH.GRAPH",
+            "Salle": "441",
+            "Prof": "BOUKALA",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "TH.GRAPH ",
+            "Salle": "C1",
+            "Prof": "BOUKALA"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "GL ",
+            "Salle": "C2",
+            "Prof": "OULEFKI"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS.EXP2",
+            "Salle": "TP126",
+            "Prof": "SAIGHI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "C7",
+            "Prof": "HIMRANE"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP129",
+            "Prof": "MOULAI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP128",
+            "Prof": "BELHADI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYS.EXP2 ",
+            "Salle": "SC",
+            "Prof": "CHENAIT"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS.EXP2 ",
+            "Salle": "SC",
+            "Prof": "CHENAIT"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "GTR",
+    "Grade": "L3",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "S.C.A.N",
+            "Salle": "217",
+            "Prof": "DJERADI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "PROG.WEB",
+            "Salle": "TP128",
+            "Prof": "BELLACHE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "PROG.WEB",
+            "Salle": "TP128",
+            "Prof": "BELLACHE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "S.C.A.N",
+            "Salle": "308",
+            "Prof": "DJERADI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": [
+          {
+            "Module": "ADM.RES ",
+            "Salle": "D3",
+            "Prof": "GUERROUMI"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "T.I.C.T",
+            "Salle": "D6-",
+            "Prof": "MERAZKA",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "PROG.WEB ",
+            "Salle": "430D",
+            "Prof": "BELLACHE"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RES.S.FIL ",
+            "Salle": "103D",
+            "Prof": "BOUZIANE"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "T.TM.IP ",
+            "Salle": "D4",
+            "Prof": ""
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "T.I.C.T",
+            "Salle": "D6-",
+            "Prof": "MERAZKA",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "RES.S.FIL",
+            "Salle": "TP126",
+            "Prof": "BOUZIANE",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "S.C.A.N ",
+            "Salle": "113D",
+            "Prof": "DJERADI"
+          }
+        ],
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": [
+          {
+            "Module": "S.T.I.R ",
+            "Salle": "R3",
+            "Prof": "FARAH"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ADM.RES",
+            "Salle": "TP122",
+            "Prof": "GUERROUMI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ADM.RES",
+            "Salle": "TP122",
+            "Prof": "GUERROUMI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "T.I.C.T",
+            "Salle": "TP.C8",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "T.TM.IP",
+            "Salle": "TP.C3A",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "T.TM.IP",
+            "Salle": "TP.C3A",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "T.I.C.T",
+            "Salle": "TP.C8",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "T.TM.IP",
+            "Salle": "TP.C8",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "T.I.C.T ",
+            "Salle": "D7-",
+            "Prof": "MERAZKA"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "S.T.I.R ",
+            "Salle": "D5",
+            "Prof": "FARAH"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RES.S.FIL ",
+            "Salle": "D3",
+            "Prof": "BOUZIANE"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "S.C.A.N",
+            "Salle": "TP.C7",
+            "Prof": "DJERADI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RES.S.FIL",
+            "Salle": "TP.C6",
+            "Prof": "BOUZIANE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "RES.S.FIL",
+            "Salle": "TP.C6",
+            "Prof": "BOUZIANE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "S.C.A.N",
+            "Salle": "TP.C7",
+            "Prof": "DJERADI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "GTR",
+    "Grade": "L2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "T.R.C.I",
+            "Salle": "409",
+            "Prof": "abdelli ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "A.L.G.O",
+            "Salle": "373",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "T.R.C.I ",
+            "Salle": "103D",
+            "Prof": "abdelli"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "U.A.S.E ",
+            "Salle": "103D",
+            "Prof": "BELKHIR"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "T.R.C.I ",
+            "Salle": "103D",
+            "Prof": "abdelli"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "EL.NUM",
+            "Salle": "257",
+            "Prof": "HARROUNI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "T.R.C.I",
+            "Salle": "255",
+            "Prof": "abdelli",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "EL.NUM ",
+            "Salle": "303D",
+            "Prof": "HARROUNI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "U.A.S.E",
+            "Salle": "TP.C8",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "EL.NUM",
+            "Salle": "TP.C5",
+            "Prof": "HARROUNI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "U.A.S.E",
+            "Salle": "TP.C6",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ELECTROMAG",
+            "Salle": "446",
+            "Prof": "ADANE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "A.L.G.O",
+            "Salle": "TP.C7",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ELECTROMAG ",
+            "Salle": "326D",
+            "Prof": "ADANE"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "U.A.S.E ",
+            "Salle": "103D",
+            "Prof": "BELKHIR"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "A.L.G.O ",
+            "Salle": "103D",
+            "Prof": "MOUSSAOUI"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "EL.NUM",
+            "Salle": "LABO",
+            "Prof": "HARROUNI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "EL.ANAL",
+            "Salle": "labo-elt1",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "EL.NUM",
+            "Salle": "LABO",
+            "Prof": "HARROUNI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "EL.ANAL",
+            "Salle": "labo-elt1",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "EL.ANAL",
+            "Salle": "labo-elt1",
+            "Prof": "RAAF ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "EL.NUM",
+            "Salle": "LABO",
+            "Prof": "HARROUNI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "EL.ANAL",
+            "Salle": "labo-elt1",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "EL.NUM",
+            "Salle": "LABO",
+            "Prof": "HARROUNI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "EL.ANAL",
+            "Salle": "406",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "EL.ANAL ",
+            "Salle": "R5",
+            "Prof": ""
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "A.L.G.O ",
+            "Salle": "D7",
+            "Prof": "MOUSSAOUI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "A.L.G.O",
+            "Salle": "TP128",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "A.L.G.O",
+            "Salle": "TP128",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ISIL",
+    "Grade": "L2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "PROB/STA",
+            "Salle": "389",
+            "Prof": "CHAABANE",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "PROB/STA",
+            "Salle": "459",
+            "Prof": "CHAABANE ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "LOGIQUE",
+            "Salle": "TP.C9",
+            "Prof": "BELLALA",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ARCHI1 ",
+            "Salle": "238T",
+            "Prof": "Derbal"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "PROB/STA ",
+            "Salle": "238T",
+            "Prof": "CHAABANE"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "PROB/STA",
+            "Salle": "TP.C9",
+            "Prof": "CHAABANE",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "CAL. NUM ",
+            "Salle": "128T",
+            "Prof": "BEHLOUL"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO2 ",
+            "Salle": "128T",
+            "Prof": "LAICHI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP127",
+            "Prof": "LAICHI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP127",
+            "Prof": "LAICHI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "POO ",
+            "Salle": "R5",
+            "Prof": "MEKAHLIA"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ARCHI1",
+            "Salle": "259",
+            "Prof": "BOUCHENE ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "SI1",
+            "Salle": "452",
+            "Prof": "HEDJAZI-DELLAL",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SI1",
+            "Salle": "448",
+            "Prof": "HEDJAZI-DELLAL ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOGIQUE",
+            "Salle": "410",
+            "Prof": "BELLALA ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "259",
+            "Prof": "BOUCHENE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "LOGIQUE",
+            "Salle": "320",
+            "Prof": "BELLALA ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "338",
+            "Prof": "ayache ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "CAL. NUM",
+            "Salle": "414",
+            "Prof": "LAICHE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SI1 ",
+            "Salle": "431T",
+            "Prof": "HEDJAZI-DELLAL"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SI1",
+            "Salle": "385",
+            "Prof": "HEDJAZI- DELLAL",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "CAL. NUM",
+            "Salle": "118",
+            "Prof": "BEHLOUL ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO2",
+            "Salle": "116",
+            "Prof": "LAICHI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "CAL. NUM",
+            "Salle": "118",
+            "Prof": "BEHLOUL ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO2",
+            "Salle": "114",
+            "Prof": "LAICHI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": [
+          {
+            "Module": "ALGO2 ",
+            "Salle": "125T",
+            "Prof": "LAICHI"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "LOGIQUE ",
+            "Salle": "125T",
+            "Prof": "BELLALA"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP127",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "POO",
+            "Salle": "TP128",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "POO",
+            "Salle": "TP127",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ALGO2",
+            "Salle": "TP128",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ARCHI1",
+            "Salle": "412",
+            "Prof": "BOUCHENE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "POO",
+            "Salle": "TP131",
+            "Prof": "",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "POO",
+            "Salle": "TP130",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "ALGO2",
+            "Salle": "TP131",
+            "Prof": "",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ISIL",
+    "Grade": "L2",
+    "Section": "B",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SI1",
+            "Salle": "TP.C9",
+            "Prof": "BENALI",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "385",
+            "Prof": "Derbal",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "POO",
+            "Salle": "TP.C5",
+            "Prof": "ZELLAL",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SI1",
+            "Salle": "403",
+            "Prof": "BENALI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "POO",
+            "Salle": "TP.C5",
+            "Prof": "ZELLAL",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SI1",
+            "Salle": "352",
+            "Prof": "BENALI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SI1 ",
+            "Salle": "125T",
+            "Prof": "BENALI"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ARCHI1 ",
+            "Salle": "149T",
+            "Prof": "Derbal"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "LOGIQUE ",
+            "Salle": "SC",
+            "Prof": "Bouyakoub née Sema"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "LOGIQUE",
+            "Salle": "-444-",
+            "Prof": "Bouyakoub née Sema ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOGIQUE",
+            "Salle": "-454-",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "CAL. NUM",
+            "Salle": "340",
+            "Prof": "LAICHE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "CAL. NUM ",
+            "Salle": "119T",
+            "Prof": "LAICHE"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "CAL. NUM",
+            "Salle": "363",
+            "Prof": "LAICHE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "369",
+            "Prof": "Derbal",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "PROB/STA",
+            "Salle": "377",
+            "Prof": "BOUIBEDE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO2",
+            "Salle": "441",
+            "Prof": "BENSAOU",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO2 ",
+            "Salle": "161T",
+            "Prof": "BENSAOU"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "PROB/STA ",
+            "Salle": "421T",
+            "Prof": "BOUIBEDE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP.C6",
+            "Prof": "BENSAOU",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP.C3B",
+            "Prof": "BENSAOU",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ARCHI1",
+            "Salle": "132",
+            "Prof": "Derbal ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "PROB/STA",
+            "Salle": "381",
+            "Prof": "BOUIBEDE ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ALGO2",
+            "Salle": "441",
+            "Prof": "BENSAOU",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO2",
+            "Salle": "267",
+            "Prof": "BENSAOU ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ARCHI1",
+            "Salle": "132",
+            "Prof": "Derbal ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "PROB/STA",
+            "Salle": "443",
+            "Prof": "BOUIBEDE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP.C3A",
+            "Prof": "BENSAOU",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ALGO2 ",
+            "Salle": "238T",
+            "Prof": "BENSAOU"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "POO ",
+            "Salle": "R5",
+            "Prof": "MEKAHLIA"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP132",
+            "Prof": "BENSAOU",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP132",
+            "Prof": "BENSAOU ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "CAL. NUM",
+            "Salle": "452",
+            "Prof": "LAICHE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "LOGIQUE",
+            "Salle": "-263",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "LOGIQUE",
+            "Salle": "454",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ALGO2",
+            "Salle": "TP.C7",
+            "Prof": "BENSAOU",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "POO",
+            "Salle": "TP131",
+            "Prof": "BOUBENIA",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "POO",
+            "Salle": "TP131",
+            "Prof": "BOUBENIA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ISIL",
+    "Grade": "L3",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SI2",
+            "Salle": "TP129",
+            "Prof": "",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SI2",
+            "Salle": "TP129",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "GL2",
+            "Salle": "TP128",
+            "Prof": "ABBACI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SI2",
+            "Salle": "454",
+            "Prof": "HANK",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SI2",
+            "Salle": "C205",
+            "Prof": "HANK",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SI2 ",
+            "Salle": "R8",
+            "Prof": "HANK"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYS02 ",
+            "Salle": "431T",
+            "Prof": "CHENAIT"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "160",
+            "Prof": "ATIF ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "BD2",
+            "Salle": "142",
+            "Prof": "ABDAT",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "BD2",
+            "Salle": "TP128",
+            "Prof": "ABDAT ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS02",
+            "Salle": "320",
+            "Prof": "CHENAIT",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "RESEAUX ",
+            "Salle": "228T",
+            "Prof": "ATIF"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS02",
+            "Salle": "360",
+            "Prof": "CHENAIT ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "BD2",
+            "Salle": "TP.C3A",
+            "Prof": "ABDAT",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "228T",
+            "Prof": "GHARBI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL",
+            "Salle": "452",
+            "Prof": "GHARBI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "BD2",
+            "Salle": "414",
+            "Prof": "ABDAT",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS02",
+            "Salle": "TP.C4",
+            "Prof": "SAIGHI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C6",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "BD2",
+            "Salle": "TP132",
+            "Prof": "ABDAT",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "431T",
+            "Prof": "GHARBI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GL2 ",
+            "Salle": "167T",
+            "Prof": "haddouche epse che"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "BD2",
+            "Salle": "TP126",
+            "Prof": "ABDAT ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS02",
+            "Salle": "TP.C6",
+            "Prof": "SAIGHI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "BD2",
+            "Salle": "403",
+            "Prof": "ABDAT ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "GL2",
+            "Salle": "401",
+            "Prof": "haddouche epse che",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "BD2 ",
+            "Salle": "C7",
+            "Prof": "ABDAT"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "GL2",
+            "Salle": "444",
+            "Prof": "haddouche epse che ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "SYS02",
+            "Salle": "446",
+            "Prof": "CHENAIT ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "300",
+            "Prof": "ATIF",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "124",
+            "Prof": "ATIF ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "GL2",
+            "Salle": "444",
+            "Prof": "haddouche epse che ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "410",
+            "Prof": "GHARBI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS02",
+            "Salle": "TP122",
+            "Prof": "SAIGHI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYS02",
+            "Salle": "TP129",
+            "Prof": "SAIGHI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "GL2",
+            "Salle": "TP.C4",
+            "Prof": "haddouche epse che ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SI2",
+            "Salle": "TP.C5",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SI2",
+            "Salle": "TP.C4",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "GL2",
+            "Salle": "TP.C5",
+            "Prof": "haddouche epse che ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C3B",
+            "Prof": "AMROUS",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C8",
+            "Prof": "El-Tanni ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "GL2",
+            "Salle": "TP129",
+            "Prof": "HANK",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C4",
+            "Prof": "AMROUS ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C8",
+            "Prof": "El-Tanni",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SI2",
+            "Salle": "438",
+            "Prof": "HANK ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "371",
+            "Prof": "AMROUS",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "ISIL",
+    "Grade": "L3",
+    "Section": "B",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "BD2",
+            "Salle": "TP131",
+            "Prof": "KERKAD",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "RESEAUX",
+            "Salle": "TP.C8",
+            "Prof": "DOUKHA",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "BD2 ",
+            "Salle": "228T",
+            "Prof": "KERKAD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "C203",
+            "Prof": "DOUKHA ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "BD2",
+            "Salle": "C205",
+            "Prof": "KERKAD",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "BD2",
+            "Salle": "C201",
+            "Prof": "KERKAD",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYS02",
+            "Salle": "375",
+            "Prof": "ZEBBANE",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYS02 ",
+            "Salle": "C2",
+            "Prof": "ZEBBANE"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "GL2",
+            "Salle": "205",
+            "Prof": "Aberbour",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "GL2 ",
+            "Salle": "143T",
+            "Prof": "Aberbour"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "GL2",
+            "Salle": "367",
+            "Prof": "Aberbour",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL",
+            "Salle": "450",
+            "Prof": "NACER ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "SI2",
+            "Salle": "456",
+            "Prof": "GUEBAILI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SI2 ",
+            "Salle": "C2",
+            "Prof": "GUEBAILI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SI2",
+            "Salle": "320",
+            "Prof": "GUEBAILI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "D1",
+            "Prof": "NACER"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C8",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "BD2",
+            "Salle": "TP.C7",
+            "Prof": "KERKAD ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS02",
+            "Salle": "TP.C3A",
+            "Prof": "SAIGHI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "BD2",
+            "Salle": "TP.C7",
+            "Prof": "KERKAD ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C8",
+            "Prof": "",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C8",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "BD2",
+            "Salle": "TP.C7",
+            "Prof": "KERKAD",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "BD2",
+            "Salle": "TP131",
+            "Prof": "KERKAD",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYS02",
+            "Salle": "450",
+            "Prof": "ZEBBANE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "SI2",
+            "Salle": "122",
+            "Prof": "GUEBAILI ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "448",
+            "Prof": "NACER",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RESEAUX",
+            "Salle": "122",
+            "Prof": "DOUKHA ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "448",
+            "Prof": "NACER ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "SYS02",
+            "Salle": "450",
+            "Prof": "ZEBBANE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "C2",
+            "Prof": "NACER"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "RESEAUX ",
+            "Salle": "C1",
+            "Prof": "DOUKHA"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "GL2",
+            "Salle": "TP.C7",
+            "Prof": "Aberbour ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SI2",
+            "Salle": "TP.C6",
+            "Prof": "ZERROUKI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SI2",
+            "Salle": "TP.C6",
+            "Prof": "ZERROUKI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "GL2",
+            "Salle": "TP.C7",
+            "Prof": "Aberbour ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS02",
+            "Salle": "TP.C8",
+            "Prof": "SAIGHI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SI2",
+            "Salle": "TP.C3B",
+            "Prof": "ZERROUKI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS02",
+            "Salle": "TP127",
+            "Prof": "SAIGHI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "GL2",
+            "Salle": "TP.C3A",
+            "Prof": "Aberbour",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYS02",
+            "Salle": "TP129",
+            "Prof": "SAIGHI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SI2",
+            "Salle": "TP.C3B",
+            "Prof": "ZERROUKI ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "GL2",
+            "Salle": "TP.C3A",
+            "Prof": "Aberbour",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "HPC",
+    "Grade": "M1",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ANAL-Num ",
+            "Salle": "TP.C9",
+            "Prof": "LAICHE"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ANAL-Num",
+            "Salle": "307",
+            "Prof": "LAICHE",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Complexité",
+            "Salle": "TP.C9",
+            "Prof": "BABA ALI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Complexité ",
+            "Salle": "TP.C9",
+            "Prof": "BABA ALI"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "Complexité",
+            "Salle": "TP.C9",
+            "Prof": "BABA ALI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ARCH-Av ",
+            "Salle": "TP.C9",
+            "Prof": "BABA ALI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ARCH-Av",
+            "Salle": "TP.C9",
+            "Prof": "BABA ALI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "BaseDeDonnées ",
+            "Salle": "TP.C9",
+            "Prof": "KESSI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ANAL-Num",
+            "Salle": "TP.C7",
+            "Prof": "LAICHE",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ARCH-Av",
+            "Salle": "TP.C7",
+            "Prof": "BABA ALI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "BaseDeDonnées",
+            "Salle": "TP131",
+            "Prof": "KESSI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": [
+          {
+            "Module": "Complexité",
+            "Salle": "TP130",
+            "Prof": "BABA ALI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Anglaiss",
+            "Salle": "LABO LANG2",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYSTM",
+            "Salle": "TP128",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYSTM",
+            "Salle": "TP.C9",
+            "Prof": "GUEBLI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYSTM",
+            "Salle": "TP.C9",
+            "Prof": "GUEBLI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYSTM",
+            "Salle": "TP128",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYSTM",
+            "Salle": "TP.C9",
+            "Prof": "GUEBLI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYSTM",
+            "Salle": "TP128",
+            "Prof": "Larbi",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "Mod-Sim ",
+            "Salle": "TP.C9",
+            "Prof": "Baba ali"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Mod-Sim",
+            "Salle": "TP.C9",
+            "Prof": "Baba ali",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "BIGDATA",
+    "Grade": "M1",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "",
+            "Salle": "E1.06 (math)",
+            "Prof": "OUAFI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "OPL",
+            "Salle": "E1.06 ",
+            "Prof": "OUAFI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "CPSI ",
+            "Salle": "E1.06 (math)",
+            "Prof": "OUAFI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "CPSI",
+            "Salle": "E1.06 ",
+            "Prof": "HAMRANI ep ABDELLA",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SSAD ",
+            "Salle": "315T",
+            "Prof": "NACER"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GP",
+            "Salle": "TP.C8",
+            "Prof": "BOUCHAM ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG2",
+            "Prof": "ZENOUN",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SSAD",
+            "Salle": "TP.C7",
+            "Prof": "NACER",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "ZENOUN ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "GP",
+            "Salle": "TP.C3B",
+            "Prof": "BOUCHAM",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "POO",
+            "Salle": "TP130",
+            "Prof": "Seddiki",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "BADO ",
+            "Salle": "SC",
+            "Prof": "ALIMAZIGHI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "VT ",
+            "Salle": "113D",
+            "Prof": "AZZOUZ"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "BADO",
+            "Salle": "416",
+            "Prof": "ALIMAZIGHI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "POO ",
+            "Salle": "113D",
+            "Prof": "Seddiki"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "GP ",
+            "Salle": "113D",
+            "Prof": "MAHDAOUI"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "TH.ORD ",
+            "Salle": "C7",
+            "Prof": "BOUDHAR"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "PRAVAN",
+            "Salle": "TP130",
+            "Prof": "BOUBENIA",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SSAD",
+            "Salle": "TP.C3A",
+            "Prof": "NACER ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "PRAVAN",
+            "Salle": "TP130",
+            "Prof": "BOUBENIA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": [
+          {
+            "Module": "SSAD",
+            "Salle": "TP129",
+            "Prof": "NACER",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "TH.ORD",
+            "Salle": "416",
+            "Prof": "BOUDHAR ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "GR.BIGD",
+            "Salle": "418",
+            "Prof": "ABBAS",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GR.BIGD",
+            "Salle": "410",
+            "Prof": "ABBAS ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "TH.ORD",
+            "Salle": "444",
+            "Prof": "BOUDHAR",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "GR.BIGD ",
+            "Salle": "D4",
+            "Prof": "ABBAS"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "PRAVAN ",
+            "Salle": "D3",
+            "Prof": "BOUBENIA"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "BIGDATA",
+    "Grade": "M2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "OPTDIS",
+            "Salle": "454",
+            "Prof": "BOUMESBAH ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "TBI-SIG",
+            "Salle": "TP.C8",
+            "Prof": "MEKAHLIA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "TBI-SIG",
+            "Salle": "TP.C8",
+            "Prof": "MEKAHLIA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "TIAD",
+            "Salle": "TP.C7",
+            "Prof": "NECIR",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Anglais",
+            "Salle": "LABO LANG",
+            "Prof": "ZENOUN ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SOLO",
+            "Salle": "TP.C7",
+            "Prof": "DAHMANI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Anglais",
+            "Salle": "LABO LANG1",
+            "Prof": "ZENOUN ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SOLO",
+            "Salle": "TP.C7",
+            "Prof": "DAHMANI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "OPTDIS",
+            "Salle": "E2.05 ",
+            "Prof": "BOUMESBAH",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "OPTDIS",
+            "Salle": "444",
+            "Prof": "BOUMESBAH",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ANADISS ",
+            "Salle": "C3",
+            "Prof": "HAMRANI ep ABDELLA"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ANADISS",
+            "Salle": "TP131",
+            "Prof": "HAMRANI ep ABDELLA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "OPTDIS",
+            "Salle": "E1.05 ",
+            "Prof": "BOUMESBAH",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "TIAD ",
+            "Salle": "D5",
+            "Prof": "NECIR"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "TIAD",
+            "Salle": "TP.C4",
+            "Prof": "NECIR ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ANADISS",
+            "Salle": "TP131",
+            "Prof": "HAMRANI ep ABDELLA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "TBI-SIG ",
+            "Salle": "R3",
+            "Prof": "MEKAHLIA"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SOLO ",
+            "Salle": "C4",
+            "Prof": "DAHMANI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "BDABD ",
+            "Salle": "E5",
+            "Prof": "FRIHI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "BDABD",
+            "Salle": "TP126",
+            "Prof": "FRIHI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "BDABD",
+            "Salle": "TP127",
+            "Prof": "FRIHI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "DESIN",
+            "Salle": "162",
+            "Prof": "MIHOUBI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "DESIN ",
+            "Salle": "113D",
+            "Prof": "MIHOUBI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "DESIN",
+            "Salle": "245",
+            "Prof": "MIHOUBI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "OPTDIS ",
+            "Salle": "E1.05 (math)",
+            "Prof": "CHERGUI"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "OPTDIS ",
+            "Salle": "E1.05 (math)",
+            "Prof": "CHERGUI"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "BIOINFO",
+    "Grade": "M1",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Bio-Stat",
+            "Salle": "SC",
+            "Prof": "SELMANE"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Bio-Stat",
+            "Salle": "SC",
+            "Prof": "SELMANE",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Bio-Stat",
+            "Salle": "TP.C5",
+            "Prof": "SELMANE",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Bio-Stat",
+            "Salle": "TP.C5",
+            "Prof": "SELMANE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Bio-Math",
+            "Salle": "245",
+            "Prof": "Benbaziz ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "BIOGEN",
+            "Salle": "444",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Bio-Math ",
+            "Salle": "117D",
+            "Prof": "Benbaziz"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SystProgScript",
+            "Salle": "TP.C5",
+            "Prof": "BENZAID ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Bio-Math",
+            "Salle": "437",
+            "Prof": "Benbaziz",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SystProgScript",
+            "Salle": "TP129",
+            "Prof": "BENZAID",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "BIOGEN ",
+            "Salle": "113D",
+            "Prof": "KHEDIM"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "GP-- ",
+            "Salle": "113D",
+            "Prof": "BOUCHAM"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SystProgScript ",
+            "Salle": "D6",
+            "Prof": "BENZAID"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SystProgScript",
+            "Salle": "TP128",
+            "Prof": "BENZAID",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Anglais",
+            "Salle": "LABO",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SystProgScript",
+            "Salle": "TP.C4",
+            "Prof": "BENZAID",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Complexi ",
+            "Salle": "R5",
+            "Prof": "BOUKHEDOUMA"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": [
+          {
+            "Module": "Anglais",
+            "Salle": "LABO",
+            "Prof": "ZENOUN",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "Complexi",
+            "Salle": "454",
+            "Prof": "BOUKHEDOUMA",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Complexi",
+            "Salle": "TP.C4",
+            "Prof": "BOUKHEDOUMA",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "GP--",
+            "Salle": "TP130",
+            "Prof": "BOUCHAM ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "BIOGEN",
+            "Salle": "TP.C3A",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GP--",
+            "Salle": "TP130",
+            "Prof": "BOUCHAM",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "GEE ",
+            "Salle": "SC",
+            "Prof": "CHETTA"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "BIOINFO",
+    "Grade": "M2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MCA ",
+            "Salle": "TP.C6",
+            "Prof": "GHARBI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Anglais--",
+            "Salle": "LABO LANG1",
+            "Prof": "ZENOUN",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "MCA",
+            "Salle": "R3",
+            "Prof": "GHARBI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SystEmb ",
+            "Salle": "113D",
+            "Prof": "GUEBLI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SystEmb",
+            "Salle": "405",
+            "Prof": "GUEBLI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "CalPar-Arch",
+            "Salle": "459",
+            "Prof": "MEHDI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "CalPar-Arch",
+            "Salle": "TP.C3A",
+            "Prof": "MEHDI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "RéalitéVirt",
+            "Salle": "TP.C4",
+            "Prof": "OURAHMOUNE",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RéalitéVirt ",
+            "Salle": "D4",
+            "Prof": "OURAHMOUNE"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "FouilleDeDonnées ",
+            "Salle": "D4",
+            "Prof": "Baba ali"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "FouilleDeDonnées",
+            "Salle": "TP.C3A",
+            "Prof": "Baba ali",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "FouilleDeDonnées",
+            "Salle": "TP.C3A",
+            "Prof": "Baba ali",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Bio ",
+            "Salle": "103D",
+            "Prof": "EL NAGGER"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "CalPar-Arch ",
+            "Salle": "320",
+            "Prof": "MEHDI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SystEmb",
+            "Salle": "TP127",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Bio",
+            "Salle": "TP132",
+            "Prof": "EL NAGGER",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "IL",
+    "Grade": "M2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MPDL",
+            "Salle": "363",
+            "Prof": "HACHEMI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ENT DON",
+            "Salle": "TP.C7",
+            "Prof": "SELMOUNE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ASS QUAL",
+            "Salle": "TP.C3A",
+            "Prof": "CHABOUNI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "MPDL",
+            "Salle": "441",
+            "Prof": "HACHEMI ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "ENT DON",
+            "Salle": "TP.C6",
+            "Prof": "SELMOUNE",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ENT DON ",
+            "Salle": "E1",
+            "Prof": "SELMOUNE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "MPDL",
+            "Salle": "430D",
+            "Prof": "HACHEMI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ASS QUAL",
+            "Salle": "TP.C5",
+            "Prof": "CHABOUNI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "REP CON",
+            "Salle": "446",
+            "Prof": "ISLI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "BOUDEFASSA ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ASS QUAL",
+            "Salle": "375",
+            "Prof": "CHABOUNI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ASS QUAL",
+            "Salle": "442",
+            "Prof": "CHABOUNI ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "BOUDEFASSA",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "REP CON ",
+            "Salle": "C1",
+            "Prof": "ISLI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ASS QUAL",
+            "Salle": "412",
+            "Prof": "CHABOUNI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "CPT AVANC",
+            "Salle": "TP.C5",
+            "Prof": "Saadi ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ASS QUAL",
+            "Salle": "TP.C3A",
+            "Prof": "CHABOUNI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SIC",
+            "Salle": "TP130",
+            "Prof": "MAHDAOUI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "MPDL",
+            "Salle": "TP.C6",
+            "Prof": "ABBACI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "REP CON",
+            "Salle": "TP.C9",
+            "Prof": "ISLI ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "MPDL",
+            "Salle": "TP131",
+            "Prof": "HACHEMI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG2",
+            "Prof": "BOUDEFASSA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "REP CON",
+            "Salle": "TP.C9",
+            "Prof": "ISLI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "MPDL",
+            "Salle": "TP132",
+            "Prof": "HACHEMI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SIC ",
+            "Salle": "125T",
+            "Prof": "MAHDAOUI"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "MPDL ",
+            "Salle": "W",
+            "Prof": "HACHEMI"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SIC",
+            "Salle": "TP131",
+            "Prof": "MAHDAOUI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ENT DON",
+            "Salle": "TP126",
+            "Prof": "SELMOUNE ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "CPT AVANC",
+            "Salle": "TP122",
+            "Prof": "Saadi",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ENT DON",
+            "Salle": "TP126",
+            "Prof": "SELMOUNE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SIC",
+            "Salle": "TP131",
+            "Prof": "MAHDAOUI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "CPT AVANC",
+            "Salle": "TP122",
+            "Prof": "Saadi ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "CPT AVANC",
+            "Salle": "TP.C3B",
+            "Prof": "CHABOUNI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ASS QUAL ",
+            "Salle": "C7",
+            "Prof": "haddouche epse che"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "CPT AVANC ",
+            "Salle": "143T",
+            "Prof": "Saadi"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "CPT AVANC",
+            "Salle": "TP.C6",
+            "Prof": "Saadi ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SIC",
+            "Salle": "TP130",
+            "Prof": "MAHDAOUI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "IL",
+    "Grade": "M1",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ASGBD ",
+            "Salle": "R8",
+            "Prof": "ALIMAZIGHI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GP ",
+            "Salle": "149T",
+            "Prof": "KHEMISSA"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ASGBD",
+            "Salle": "TP.C8",
+            "Prof": "KESSI ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYST",
+            "Salle": "TP132",
+            "Prof": "DJOUADI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYST",
+            "Salle": "TP132",
+            "Prof": "DJOUADI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "GP",
+            "Salle": "TP131",
+            "Prof": "KHEMISSA ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "ASGBD",
+            "Salle": "TP.C8",
+            "Prof": "KESSI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ASGBD",
+            "Salle": "TP.C8",
+            "Prof": "KESSI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYST",
+            "Salle": "TP126",
+            "Prof": "DJOUADI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYST",
+            "Salle": "410",
+            "Prof": "BOUYAKOUB",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYST",
+            "Salle": "455",
+            "Prof": "BOUYAKOUB",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "TP130",
+            "Prof": "HEDJAZI-DELLAL",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ASGBD",
+            "Salle": "TP130",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "406",
+            "Prof": "HEDJAZI-DELLAL",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GP",
+            "Salle": "TP130",
+            "Prof": "KHEMISSA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "TP129",
+            "Prof": "HEDJAZI-DELLAL",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "MEPS ",
+            "Salle": "420T",
+            "Prof": "AISSANI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYST",
+            "Salle": "TP127",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "GP",
+            "Salle": "TP132",
+            "Prof": "KHEMISSA ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "TP.C3B",
+            "Prof": "HEDJAZI-DELLAL ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "WEB AV",
+            "Salle": "TP129",
+            "Prof": "MIHOUB",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "WEB AV",
+            "Salle": "TP129",
+            "Prof": "MIHOUB ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "TP.C3B",
+            "Prof": "HEDJAZI-DELLAL ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "GP",
+            "Salle": "TP128",
+            "Prof": "KHEMISSA",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYST ",
+            "Salle": "SC",
+            "Prof": "BOUYAKOUB"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "WEB AV ",
+            "Salle": "SC",
+            "Prof": "Bouyakoub née Sema"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYST",
+            "Salle": "350",
+            "Prof": "BOUYAKOUB",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "WEB AV",
+            "Salle": "TP130",
+            "Prof": "MIHOUB",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "WEB AV",
+            "Salle": "TP128",
+            "Prof": "MIHOUB",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MEPS",
+            "Salle": "305",
+            "Prof": "AISSANI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPLEXITE ",
+            "Salle": "R7",
+            "Prof": "HEDJAZI-DELLAL"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "MEPS",
+            "Salle": "414",
+            "Prof": "AISSANI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "410",
+            "Prof": "HEDJAZI-DELLAL ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG1",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "MEPS",
+            "Salle": "237D",
+            "Prof": "AISSANI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "IV",
+    "Grade": "M2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Système d'Exploitation Mobile",
+            "Salle": "162",
+            "Prof": "OURAHMOUNE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "TH JEU",
+            "Salle": "118",
+            "Prof": "DAHMANI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Visualisation de Données ",
+            "Salle": "135D",
+            "Prof": "LARABI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Système d'Exploitation Mobile ",
+            "Salle": "117D",
+            "Prof": "OURAHMOUNE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Visualisation de Données",
+            "Salle": "TP128",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Système d'Exploitation Mobile",
+            "Salle": "TP.C4",
+            "Prof": "OURAHMOUNE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "Visualisation de Données",
+            "Salle": "TP130",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "PROG RES ",
+            "Salle": "SC",
+            "Prof": "EL NAGGER"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Connaissances et Raisonnement",
+            "Salle": "TP.C4",
+            "Prof": "KHELLAF ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Atelier Créatif",
+            "Salle": "TP.C5",
+            "Prof": "LARABI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Atelier Créatif",
+            "Salle": "TP.C5",
+            "Prof": "LARABI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Synthèse d'Image",
+            "Salle": "TP128",
+            "Prof": "Dahmane",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Synthèse d'Image",
+            "Salle": "TP132",
+            "Prof": "Dahmane",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "GP- ",
+            "Salle": "103D",
+            "Prof": "HACHEMI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Synthèse d'Image ",
+            "Salle": "103D",
+            "Prof": "Dahmane"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Système d'Exploitation Mobile",
+            "Salle": "TP.C5",
+            "Prof": "OURAHMOUNE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "GP-",
+            "Salle": "TP127",
+            "Prof": "BENSALAH",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "PROG RES",
+            "Salle": "TP.C6",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "GP-",
+            "Salle": "TP.C7",
+            "Prof": "BENSALAH ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "PROG RES",
+            "Salle": "TP.C6",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "TH JEU",
+            "Salle": "402",
+            "Prof": "DAHMANI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "Système d'Exploitation Mobile",
+            "Salle": "338",
+            "Prof": "OURAHMOUNE",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Connaissances et Raisonnement ",
+            "Salle": "R4",
+            "Prof": "KHELLAF"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "TH JEU ",
+            "Salle": "D5",
+            "Prof": "DAHMANI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "TH JEU",
+            "Salle": "TP.C5",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Connaissances et Raisonnement",
+            "Salle": "TP.C6",
+            "Prof": "belhadi hiba",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "TH JEU",
+            "Salle": "TP.C3A",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "IV",
+    "Grade": "M1",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Anglais",
+            "Salle": "LABO LANG",
+            "Prof": "BOUDEFASSA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ABDD",
+            "Salle": "TP.C3A",
+            "Prof": "KESSI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "TAI",
+            "Salle": "TP.C3B",
+            "Prof": "DELLOUL ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Anglais",
+            "Salle": "LABO LANG",
+            "Prof": "BOUDEFASSA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Résolution de problèmes ",
+            "Salle": "D6",
+            "Prof": "LARABI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "TAI ",
+            "Salle": "D6",
+            "Prof": "SETITRA"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "Résolution de problèmes",
+            "Salle": "TP129",
+            "Prof": "SEBAI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "TAI",
+            "Salle": "D5",
+            "Prof": "SETITRA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Syst",
+            "Salle": "TP.C4",
+            "Prof": "BENCHAIBA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "TAI",
+            "Salle": "TP.C5",
+            "Prof": "DELLOUL",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ABDD ",
+            "Salle": "D6",
+            "Prof": "DJIROUNE"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "TAI",
+            "Salle": "405",
+            "Prof": "SETITRA ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "Syst",
+            "Salle": "166",
+            "Prof": "BENCHAIBA",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Syst",
+            "Salle": "TP127",
+            "Prof": "BENCHAIBA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Syst ",
+            "Salle": "E6",
+            "Prof": "BENCHAIBA"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Multimédia ",
+            "Salle": "E6",
+            "Prof": "LARABI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Syst",
+            "Salle": "249",
+            "Prof": "BENCHAIBA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Résolution de problèmes",
+            "Salle": "TP122",
+            "Prof": "SEBAI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ABDD",
+            "Salle": "TP.C5",
+            "Prof": "KESSI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Algo",
+            "Salle": "TP.C4",
+            "Prof": "MESSAOUDI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "Algo",
+            "Salle": "TP.C4",
+            "Prof": "MESSAOUDI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Algo ",
+            "Salle": "R4",
+            "Prof": "DRIAS"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Algo",
+            "Salle": "406",
+            "Prof": "MESSAOUDI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Multimédia",
+            "Salle": "TP.C5",
+            "Prof": "SEBAI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Multimédia",
+            "Salle": "TP.C5",
+            "Prof": "SEBAI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Algo",
+            "Salle": "387",
+            "Prof": "MESSAOUDI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "RSD",
+    "Grade": "M1",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "Res Prot",
+            "Salle": "TP122",
+            "Prof": "KOUCHI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Res Prot",
+            "Salle": "TP122",
+            "Prof": "KOUCHI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "GP ",
+            "Salle": "SC",
+            "Prof": "KHEMISSA"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "MEPS",
+            "Salle": "R3",
+            "Prof": "GHARBI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ASGBD",
+            "Salle": "TP131",
+            "Prof": "BERKANI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Anglais",
+            "Salle": "LABO LANG1",
+            "Prof": "BOUDEFASSA ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "Res Prot",
+            "Salle": "TP122",
+            "Prof": "Bouachi",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Anglais",
+            "Salle": "LABO LANG",
+            "Prof": "BOUDEFASSA",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "Res Prot",
+            "Salle": "TP122",
+            "Prof": "Bouachi ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "Algo.Av.et Compl",
+            "Salle": "TP132",
+            "Prof": "NEMOUCHI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "Algo.Av.et Compl",
+            "Salle": "454",
+            "Prof": "MOSTEGHANEMI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Algo.Av.et Compl",
+            "Salle": "TP.C3B",
+            "Prof": "NEMOUCHI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "GP",
+            "Salle": "TP.C8",
+            "Prof": "BOUCHAM",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "Algo.Av.et Compl ",
+            "Salle": "SC",
+            "Prof": "MOSTEGHANEMI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Res Prot ",
+            "Salle": "SC",
+            "Prof": "DERDER"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "Anglais",
+            "Salle": "LABO LANG1",
+            "Prof": "BOUDEFASSA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Algo.Av.et Compl",
+            "Salle": "267",
+            "Prof": "MOSTEGHANEMI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ASGBD",
+            "Salle": "TP128",
+            "Prof": "FRIHI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ASGBD",
+            "Salle": "TP.C8",
+            "Prof": "FRIHI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ASGBD",
+            "Salle": "TP.C5",
+            "Prof": "BERKANI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "Algo.Av.et Compl",
+            "Salle": "TP.C8",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "GP",
+            "Salle": "TP.C3B",
+            "Prof": "BOUCHAM",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "GP",
+            "Salle": "TP.C3B",
+            "Prof": "BOUCHAM ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "MEPS",
+            "Salle": "449",
+            "Prof": "GHARBI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "Algo.Av.et Compl",
+            "Salle": "TP.C3B",
+            "Prof": "MESSAOUDI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "Syst.Expl",
+            "Salle": "401",
+            "Prof": "MOUSSAOUI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MEPS ",
+            "Salle": "P",
+            "Prof": "GHARBI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ASGBD ",
+            "Salle": "149T",
+            "Prof": "GUEBAILI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYST",
+            "Salle": "TP.C6",
+            "Prof": "MEHDI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYST",
+            "Salle": "TP131",
+            "Prof": "MEHDI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "Algo.Av.et Compl",
+            "Salle": "TP131",
+            "Prof": "MESSAOUDI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYST",
+            "Salle": "360",
+            "Prof": "ABDELLAHOUM ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "MEPS",
+            "Salle": "160",
+            "Prof": "GHARBI ",
+            "Groupe": "G3",
+            "Type": "TD"
+          },
+          {
+            "Module": "Algo.Av.et Compl",
+            "Salle": "363",
+            "Prof": "MESSAOUDI",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYST ",
+            "Salle": "244T",
+            "Prof": "MOUSSAOUI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYST",
+            "Salle": "TP132",
+            "Prof": "MEHDI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "GP",
+            "Salle": "TP130",
+            "Prof": "BOUCHAM ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYST",
+            "Salle": "450",
+            "Prof": "ABDELLAHOUM",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": [
+          {
+            "Module": "SYST",
+            "Salle": "TP131",
+            "Prof": "MEHDI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "RSD",
+    "Grade": "M2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "CAL.PAR",
+            "Salle": "TP127",
+            "Prof": "BOUGHACI",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "CAR",
+            "Salle": "TP130",
+            "Prof": "BOULKRINAT",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RES MOB",
+            "Salle": "TP131",
+            "Prof": "Saadi ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "CAR",
+            "Salle": "TP130",
+            "Prof": "BOULKRINAT ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "CAL.PAR",
+            "Salle": "TP127",
+            "Prof": "BOUGHACI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "CAR ",
+            "Salle": "SC",
+            "Prof": "BOULKRINAT"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "CAR",
+            "Salle": "TP130",
+            "Prof": "BOULKRINAT ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RES MOB",
+            "Salle": "TP131",
+            "Prof": "Saadi ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "CAL.PAR",
+            "Salle": "TP127",
+            "Prof": "BOUGHACI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "CAR",
+            "Salle": "TP130",
+            "Prof": "BOULKRINAT ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "CAL.PAR",
+            "Salle": "TP127",
+            "Prof": "BOUGHACI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "RES MOB",
+            "Salle": "TP131",
+            "Prof": "Saadi",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "RES S F",
+            "Salle": "TP132",
+            "Prof": "BENKAOUHA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ING-RES",
+            "Salle": "TP122",
+            "Prof": "zeraoulia",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "RES S F ",
+            "Salle": "143T",
+            "Prof": "BENKAOUHA"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ING-RES",
+            "Salle": "TP.C5",
+            "Prof": "Zeraoulia ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RES S F",
+            "Salle": "TP126",
+            "Prof": "BENKAOUHA",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "RES MOB ",
+            "Salle": "E8",
+            "Prof": "BENCHAIBA"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ing-res",
+            "Salle": "TP132",
+            "Prof": "Zeraoulia",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RES S F",
+            "Salle": "TP.C6",
+            "Prof": "BENKAOUHA ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "ING-RES",
+            "Salle": "TP122",
+            "Prof": "Zeraoulia ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.DISTR",
+            "Salle": "TP132",
+            "Prof": "Seddiki",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "Labo langue B2",
+            "Prof": "BOUDEFASSA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYS.DISTR",
+            "Salle": "TP.C3B",
+            "Prof": "Seddiki ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "RES S F",
+            "Salle": "TP.C8",
+            "Prof": "BENKAOUHA",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "RES MOB",
+            "Salle": "TP.C4",
+            "Prof": "Saadi",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ing-res ",
+            "Salle": "167T",
+            "Prof": "zeraoulia"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "CAL.PAR",
+            "Salle": "408",
+            "Prof": "BOUGHACI ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG1",
+            "Prof": "BOUDEFASSA",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYS.DISTR",
+            "Salle": "TP126",
+            "Prof": "Seddiki ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG2",
+            "Prof": "BOUDEFASSA ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "CAL.PAR",
+            "Salle": "TP127",
+            "Prof": "BOUGHACI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYS.DISTR",
+            "Salle": "TP131",
+            "Prof": "Seddiki",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "CAL.PAR ",
+            "Salle": "E1",
+            "Prof": "BOUGHACI"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SYS.DISTR ",
+            "Salle": "D7",
+            "Prof": "Seddiki"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "CAR",
+            "Salle": "TP127",
+            "Prof": "BOULKRINAT",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "CAR",
+            "Salle": "TP127",
+            "Prof": "BOULKRINAT",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "RES MOB ",
+            "Salle": "C2",
+            "Prof": "BENCHAIBA"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "CAR",
+            "Salle": "TP.C8",
+            "Prof": "BOULKRINAT",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "CAR",
+            "Salle": "TP.C8",
+            "Prof": "BOULKRINAT ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "CAL.PAR",
+            "Salle": "375",
+            "Prof": "BOUGHACI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "SII",
+    "Grade": "M1",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MEPS",
+            "Salle": "304",
+            "Prof": "AMROUS",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "MEPS ",
+            "Salle": "E1",
+            "Prof": "AMROUS"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "RES PB ",
+            "Salle": "E8",
+            "Prof": "AZZOUNE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "RES PB",
+            "Salle": "314",
+            "Prof": "AZZOUNE",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "MEPS",
+            "Salle": "358",
+            "Prof": "AMROUS ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "RES PB",
+            "Salle": "170",
+            "Prof": "AZZOUNE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP131",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ASGBD",
+            "Salle": "TP129",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYST",
+            "Salle": "TP128",
+            "Prof": "Larbi ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "TP127",
+            "Prof": "MOULAI",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYST",
+            "Salle": "TP131",
+            "Prof": "Larbi ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "TP129",
+            "Prof": "MOULAI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "ASGBD",
+            "Salle": "TP128",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP127",
+            "Prof": "",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C3A",
+            "Prof": "",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "ASGBD",
+            "Salle": "TP127",
+            "Prof": "Larbi",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "TP131",
+            "Prof": "MOULAI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "TP129",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "TP129",
+            "Prof": "MOULAI ",
+            "Groupe": "G3",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYST",
+            "Salle": "TP127",
+            "Prof": "Larbi",
+            "Groupe": "G4",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYST ",
+            "Salle": "167T",
+            "Prof": "ZEBBANE"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "ZENOUN ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "451",
+            "Prof": "DRIAS ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "SYST",
+            "Salle": "439",
+            "Prof": "ZEBBANE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SYST",
+            "Salle": "154",
+            "Prof": "ZEBBANE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "ZENOUN ",
+            "Groupe": "G2",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPIL",
+            "Salle": "310",
+            "Prof": "ALIOUANE",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "R5",
+            "Prof": "DRIAS ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "ZENOUN",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "C1",
+            "Prof": "DRIAS",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C7",
+            "Prof": "ALIOUANE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "COMPLEXITE ",
+            "Salle": "C1",
+            "Prof": "DRIAS"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "COMPIL ",
+            "Salle": "C1",
+            "Prof": "ALIOUANE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPIL",
+            "Salle": "TP.C3B",
+            "Prof": "ALIOUANE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYST",
+            "Salle": "307",
+            "Prof": "ZEBBANE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ASGBD",
+            "Salle": "TP.C8",
+            "Prof": "AZZOUZ",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ASGBD ",
+            "Salle": "K",
+            "Prof": "AZZOUZ"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "RES PB",
+            "Salle": "404",
+            "Prof": "AZZOUNE ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "MEPS",
+            "Salle": "243",
+            "Prof": "AMROUS",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "SII",
+    "Grade": "M2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "D.MINING",
+            "Salle": "TP130",
+            "Prof": "Houacine ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "P .CONTR",
+            "Salle": "407",
+            "Prof": "ISLI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RI ",
+            "Salle": "R8",
+            "Prof": "KECHID"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "D.MINING",
+            "Salle": "TP.C3A",
+            "Prof": "Houacine ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "REP CON",
+            "Salle": "TP.C6",
+            "Prof": "MOULAI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "P .CONTR",
+            "Salle": "TP.C3A",
+            "Prof": "ISLI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "REP CON",
+            "Salle": "TP.C3B",
+            "Prof": "MOULAI ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "D.MINING",
+            "Salle": "TP.C6",
+            "Prof": "Houacine",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "REP CON",
+            "Salle": "TP.C6",
+            "Prof": "MOULAI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "P .CONTR",
+            "Salle": "TP.C3B",
+            "Prof": "ISLI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "D.MINING",
+            "Salle": "TP.C7",
+            "Prof": "DRIAS ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "VISION",
+            "Salle": "TP130",
+            "Prof": "ABADA",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "P .CONTR",
+            "Salle": "446",
+            "Prof": "ISLI ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "D.MINING",
+            "Salle": "444",
+            "Prof": "DRIAS",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "D.MINING",
+            "Salle": "410",
+            "Prof": "DRIAS ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG1",
+            "Prof": "ZENOUN",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "TAL ",
+            "Salle": "149T",
+            "Prof": "TAMEN"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "P .CONTR ",
+            "Salle": "SC",
+            "Prof": "ISLI"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "VISION",
+            "Salle": "TP127",
+            "Prof": "ABADA ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RI",
+            "Salle": "TP132",
+            "Prof": "KHENNAK ",
+            "Groupe": "G2",
+            "Type": "TP"
+          },
+          {
+            "Module": "P .CONTR",
+            "Salle": "TP.C9",
+            "Prof": "ISLI",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "VISION",
+            "Salle": "TP128",
+            "Prof": "ABADA",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "D.MINING ",
+            "Salle": "238T",
+            "Prof": "DRIAS"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "VISION ",
+            "Salle": "C7",
+            "Prof": "ABADA"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "P .CONTR",
+            "Salle": "442",
+            "Prof": "ISLI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "REP CON ",
+            "Salle": "149T",
+            "Prof": "KHELLAF"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "ZENOUN",
+            "Groupe": "G3",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "ZENOUN ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "TAL",
+            "Salle": "TP.C3B",
+            "Prof": "TAMEN",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "TAL",
+            "Salle": "TP132",
+            "Prof": "TAMEN ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "RI",
+            "Salle": "TP126",
+            "Prof": "KHENNAK",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "RI",
+            "Salle": "TP126",
+            "Prof": "KHENNAK ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "TAL",
+            "Salle": "TP132",
+            "Prof": "TAMEN",
+            "Groupe": "G3",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "SSI",
+    "Grade": "M1",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYST ",
+            "Salle": "R3",
+            "Prof": "BELKHIR"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "VTBDA ",
+            "Salle": "E5",
+            "Prof": "ALIMAZIGHI"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ARITH.MOD",
+            "Salle": "217",
+            "Prof": "DAHMANI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ASPECT JUR ",
+            "Salle": "E1",
+            "Prof": "BERBAR"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "ARITH.MOD ",
+            "Salle": "117D",
+            "Prof": "DAHMANI"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "ARCH.RES",
+            "Salle": "TP126",
+            "Prof": "ZAFOUNE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ARITH.MOD",
+            "Salle": "TP.C3A",
+            "Prof": "DAHMANI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ARCH.RES ",
+            "Salle": "117D",
+            "Prof": "ZAFOUNE"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG2",
+            "Prof": "",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "ARCH.RES",
+            "Salle": "TP126",
+            "Prof": "ZAFOUNE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "ANGLAIS",
+            "Salle": "LABO LANG",
+            "Prof": "",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SYST",
+            "Salle": "453",
+            "Prof": "BELKHIR ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "INTR.SECU",
+            "Salle": "389",
+            "Prof": "Mekliche",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "INTR.SECU",
+            "Salle": "TP132",
+            "Prof": "EL NAGGER ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SYST",
+            "Salle": "310",
+            "Prof": "BELKHIR",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "ARITH.MOD",
+            "Salle": "C4",
+            "Prof": "DAHMANI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": [
+          {
+            "Module": "ARITH.MOD",
+            "Salle": "TP130",
+            "Prof": "DAHMANI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": [
+          {
+            "Module": "VTBDA",
+            "Salle": "TP.C6",
+            "Prof": "AZZOUZ",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SYST",
+            "Salle": "TP.C4",
+            "Prof": "OURAHMOUNE ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "VTBDA",
+            "Salle": "TP.C6",
+            "Prof": "AZZOUZ",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "INTR.SECU",
+            "Salle": "TP132",
+            "Prof": "EL NAGGER",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "SYST",
+            "Salle": "TP.C9",
+            "Prof": "OURAHMOUNE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "INTR.SECU ",
+            "Salle": "103D",
+            "Prof": "BERBAR"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "INTR.SECU",
+            "Salle": "407",
+            "Prof": "Mekliche ",
+            "Groupe": "G1",
+            "Type": "TD"
+          },
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "446",
+            "Prof": "MOSTEGHANEMI",
+            "Groupe": "G2",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "COMPLEXITE",
+            "Salle": "416",
+            "Prof": "MOSTEGHANEMI",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "COMPLEXITE ",
+            "Salle": "E8",
+            "Prof": "MOSTEGHANEMI"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  },
+  {
+    "Filere": "SSI",
+    "Grade": "M2",
+    "Section": "A",
+    "Jour": {
+      "Sam": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SEC.APL",
+            "Salle": "TP132",
+            "Prof": "BERBAR",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "SEC.APL",
+            "Salle": "TP132",
+            "Prof": "BERBAR",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "09:40 - 11:10": null,
+        "11:20 - 12:50": [
+          {
+            "Module": "AUT SEC",
+            "Salle": "TP132",
+            "Prof": "BERBAR ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "MEOP",
+            "Salle": "362",
+            "Prof": "Baba ali",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Dim": {
+        "08:00 - 09:30": [
+          {
+            "Module": "AUT SEC ",
+            "Salle": "135D",
+            "Prof": "BERBAR"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "SEC.SYS AV",
+            "Salle": "TP127",
+            "Prof": "GUERROUMI ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "AUT SEC",
+            "Salle": "TP129",
+            "Prof": "BERBAR",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "SEC.SYS AV ",
+            "Salle": "231D",
+            "Prof": "GUERROUMI"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "PSSR",
+            "Salle": "TP122",
+            "Prof": "BOUGHACI",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "PSSR",
+            "Salle": "TP131",
+            "Prof": "BOUGHACI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Lun": {
+        "08:00 - 09:30": [
+          {
+            "Module": "SEC.APL ",
+            "Salle": "225D",
+            "Prof": "BERBAR"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "MPOD ",
+            "Salle": "225D",
+            "Prof": "Mekliche"
+          }
+        ],
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": [
+          {
+            "Module": "MEOP ",
+            "Salle": "D",
+            "Prof": "Baba ali"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Mar": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "SEC.SYS AV",
+            "Salle": "TP122",
+            "Prof": "GUERROUMI",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "PSSR ",
+            "Salle": "D5",
+            "Prof": "BOUGHACI"
+          }
+        ],
+        "13:00 - 14:30": null,
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      },
+      "Mer": {
+        "08:00 - 09:30": null,
+        "09:40 - 11:10": [
+          {
+            "Module": "SEC CTRL TRAF ",
+            "Salle": "135D",
+            "Prof": "ZAFOUNE"
+          }
+        ],
+        "11:20 - 12:50": null,
+        "13:00 - 14:30": [
+          {
+            "Module": "SEC CTRL TRAF",
+            "Salle": "TP122",
+            "Prof": "ZAFOUNE",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": [
+          {
+            "Module": "SEC CTRL TRAF",
+            "Salle": "TP122",
+            "Prof": "ZAFOUNE",
+            "Groupe": "G1",
+            "Type": "TP"
+          }
+        ],
+        "16:20 - 17:50": null
+      },
+      "Jeu": {
+        "08:00 - 09:30": [
+          {
+            "Module": "MODELISATION ",
+            "Salle": "113D",
+            "Prof": "HAMMAL"
+          }
+        ],
+        "09:40 - 11:10": [
+          {
+            "Module": "MODELISATION ",
+            "Salle": "440",
+            "Prof": "HAMMAL",
+            "Groupe": "G1",
+            "Type": "TD"
+          }
+        ],
+        "11:20 - 12:50": [
+          {
+            "Module": "MPOD",
+            "Salle": "TP122",
+            "Prof": "Mekliche ",
+            "Groupe": "G1",
+            "Type": "TP"
+          },
+          {
+            "Module": "MODELISATION ",
+            "Salle": "406",
+            "Prof": "HAMMAL",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "13:00 - 14:30": [
+          {
+            "Module": "MPOD",
+            "Salle": "TP122",
+            "Prof": "Mekliche",
+            "Groupe": "G2",
+            "Type": "TP"
+          }
+        ],
+        "14:40 - 16:10": null,
+        "16:20 - 17:50": null
+      }
+    }
+  }
+]

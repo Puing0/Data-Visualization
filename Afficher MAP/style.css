@@ -1,0 +1,49 @@
+body{
+    position: relative;
+    width: auto;
+    margin: 0% auto;
+}
+/* 
+.cl1{
+fill:rgb(221, 162, 0);
+stroke: black;
+}
+.cl1:hover{
+    fill: red;
+    fill-opacity: 50%;
+} */
+
+.background {
+    fill: #eee;
+    pointer-events: all;
+  }
+
+  .province-title {
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    color: white;
+  }
+
+  .province-info {
+    background: white;
+    position: absolute;
+    top: 150px;
+    right: 20px;
+    height: 400px;
+    width: 300px;
+  }
+  .background {
+    fill: #021019;
+    pointer-events: all;
+  }
+  .map-layer {
+    fill: #08304b;
+    stroke: #021019;
+    stroke-width: 1px;
+  }
+
+  svg{
+    display: block;
+    margin: auto;
+  }
