@@ -131,14 +131,14 @@ const loadAndProcessData = () => {
   d3.json("dataF.json", (data) => {
     getSalle(data);
     fillSelect(data);
-    specSelected();
     daySelect();
     // getSalle(objTable);
+    // console.log(Object.keys(data[0].Jour)[0]);
   })
 }
-
+var selected = [];
 document.getElementById('submit').onclick = function() {
-  var selected = [];
+  
   for (var option of document.getElementById('SpecID').options)
   {
       if (option.selected) {
@@ -151,7 +151,10 @@ document.getElementById('submit').onclick = function() {
           selected.push(option.value);
       }
   }
-  alert(selected);
+  specSelected();
+  console.log(selected)
+  // alert(selected);
+  // selected = []
 }
 const getSalle = (data) => {
   var salle = []
@@ -204,7 +207,7 @@ const fillSelect = (data)=>{
         acc.push(curr);
     return acc;
 }, [])
-  // console.log(specialites)
+  console.log(specialites)
   specialites.sort();
 
   //dealing with html selects
@@ -221,24 +224,38 @@ const fillSelect = (data)=>{
 }
 
 // get the selected speciality 
-
 function specSelected()
 {
   var objTable = []
   readTextFile("dataF.json", function(text)
     {
-        var data = JSON.parse(text);
-        for (var i in data)
-        {      
-            if( trim(""+data[i].Filere) == specSelect.value )
-            {
-                // console.log(data[i].Filere);
-                objTable.push(data[i])
-            }
+    var objTable = [];
+    var data = JSON.parse(text);
+    // console.log(selected[0])
+    for (var i in data)
+    {   
+      // console.log(selected[0])
+      if( trim(""+data[i].Filere) == selected[0])
+      {
+        // console.log("hello there1")
+        for (const j in d3.range(0, 6)) {
+          if (Object.keys(data[i].Jour)[j] == selected[1] ) {
+            // console.log("hello there2")
+            console.log(data[i])
+            // console.log(data[i].Filere);
+            objTable.push(data[i])  
+          }
         }
-        console.log(getSalle(objTable))
-    });
+       
+      }    
+    }
+    console.log(objTable)
+    console.log(getSalle(objTable))
     return getSalle(objTable);
+  });
+    // console.log(objTable)
+    // console.log(getSalle(objTable))
+    
 }
 
 function daySelect(){
@@ -246,24 +263,19 @@ function daySelect(){
   readTextFile("dataF.json", function(text)
     {
         var data = JSON.parse(text);
-        for (var i in data)
-        {  
-          for (var j in data[i].Jour) {
-            console.log(data[i].Jour)
-            objTable.push(data[i].Jour);
-          }       
-        }
+            // console.log(Object.keys(data[i].Jour))
+        objTable.push(Object.keys(data[0].Jour));
+        objTable = objTable[0]
         console.log(objTable)
-        daySelect = document.getElementById('SpecID');
+        let daySelect = document.getElementById('day');
         for (var i = 0; i<objTable.length; i++)
-    {
-        var opt = document.createElement('option');
-        // opt.appendChild(document.createElement("option"));
-        // opt = document.createElement('option');
-        opt.value = objTable[i];
-        opt.innerHTML = objTable[i];
-        daySelect.appendChild(opt);
-    }
+          {
+              var opt = document.createElement('option');
+              // console.log(objTable[i])
+              opt.value = objTable[i];
+              opt.innerHTML = objTable[i];
+              daySelect.appendChild(opt);
+          }
     });
 }
 
