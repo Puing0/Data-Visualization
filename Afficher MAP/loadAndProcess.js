@@ -132,8 +132,26 @@ const loadAndProcessData = () => {
     getSalle(data);
     fillSelect(data);
     specSelected();
+    daySelect();
     // getSalle(objTable);
   })
+}
+
+document.getElementById('submit').onclick = function() {
+  var selected = [];
+  for (var option of document.getElementById('SpecID').options)
+  {
+      if (option.selected) {
+          selected.push(option.value);
+      }
+  }
+  for (var option of document.getElementById('day').options)
+  {
+      if (option.selected) {
+          selected.push(option.value);
+      }
+  }
+  alert(selected);
 }
 const getSalle = (data) => {
   var salle = []
@@ -221,6 +239,32 @@ function specSelected()
         console.log(getSalle(objTable))
     });
     return getSalle(objTable);
+}
+
+function daySelect(){
+  var objTable = []
+  readTextFile("dataF.json", function(text)
+    {
+        var data = JSON.parse(text);
+        for (var i in data)
+        {  
+          for (var j in data[i].Jour) {
+            console.log(data[i].Jour)
+            objTable.push(data[i].Jour);
+          }       
+        }
+        console.log(objTable)
+        daySelect = document.getElementById('SpecID');
+        for (var i = 0; i<objTable.length; i++)
+    {
+        var opt = document.createElement('option');
+        // opt.appendChild(document.createElement("option"));
+        // opt = document.createElement('option');
+        opt.value = objTable[i];
+        opt.innerHTML = objTable[i];
+        daySelect.appendChild(opt);
+    }
+    });
 }
 
 
