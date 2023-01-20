@@ -68,6 +68,10 @@ const effectLayer = g.append('g')
 const mapLayer = g.append('g')
                 .classed('map-layer', true);
 
+                
+
+const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+
 
 // svg.call(d3.zoom()
 // 	.extent([[0, 0], [w, h]])
@@ -92,15 +96,29 @@ d3.json("usthbBrut2.geojson", function(json) {
   color.domain([0, d3.max(json.features, nameLength)]);
     proj.translate(t).scale(s);
 
-    mapLayer.selectAll('path')
+    
+
+    d3.json("dataF.json", (data) => {
+      let salles = getSalle(data);
+      fillSelect(data);
+      daySelect();
+
+      mapLayer.selectAll('path')
     .data(json.features)
-  .enter().append('path') 
+    .enter().append('path') 
     .attr('d', path)
     .attr('vector-effect', 'non-scaling-stroke')
-    .style('fill', fillFn)
+    .style('fill', d=>{
+          if(d.properties.name in salles){
+            return "red"
+          }
+      else fillFn;
+    })
       .on('mouseover', mouseover)
       .on('mouseout', mouseout)
       .on('click', clicked);
+      
+    })
         
       // -------------------------------------------------------------------------
       //                        treating data of schedule
@@ -138,7 +156,7 @@ const loadAndProcessData = () => {
 }
 var selected = [];
 document.getElementById('submit').onclick = function() {
-  
+  selected = []
   for (var option of document.getElementById('SpecID').options)
   {
       if (option.selected) {
