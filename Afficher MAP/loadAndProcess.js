@@ -73,15 +73,6 @@ const mapLayer = g.append('g')
 const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
 
 
-// svg.call(d3.zoom()
-// 	.extent([[0, 0], [w, h]])
-// 	.scaleExtent([1, 8])
-// 	.on("zoom", zoomed));
-
-// function zoomed({transform}) {
-// 	g.attr("transform", transform);
-// }
-
 // ************************************************************************
 //                Drawing the map
 // ************************************************************************
@@ -91,46 +82,29 @@ d3.json("usthbBrut2.geojson", function(json) {
     // console.log(b);
         s = .99 / Math.max( (b[1][0] - b[0][0]) / w , (b[1][1] - b[0][1]) / h ); 
         t = [ (w - s * (b[1][0] +b[0][0])) / 2 , (h - s * (b[1][1]+b[0][1])) / 2 ];
-        // console.log(s,t);
+        
         // Update color scale domain based on data
-  color.domain([0, d3.max(json.features, nameLength)]);
-    proj.translate(t).scale(s);
-
-    
-
-    d3.json("dataF.json", (data) => {
-      let salles = getSalle(data);
-      fillSelect(data);
-      daySelect();
-
-      mapLayer.selectAll('path')
-    .data(json.features)
-    .enter().append('path') 
-    .attr('d', path)
-    .attr('vector-effect', 'non-scaling-stroke')
-    .style('fill', d=>{
-          if(d.properties.name in salles){
-            return "red"
-          }
-      else fillFn;
-    })
-      .on('mouseover', mouseover)
-      .on('mouseout', mouseout)
-      .on('click', clicked);
-      
-    })
+        color.domain([0, d3.max(json.features, nameLength)]);
+        proj.translate(t).scale(s); 
         
-      // -------------------------------------------------------------------------
-      //                        treating data of schedule
-      // -------------------------------------------------------------------------
-
-      // console.log("here is meeeeeeeeeeee",data)
-      // let dimanche8 = d3.group(data, d => d.Jour.Dim[["08:00 - 09:30"]])
-                  
-        loadAndProcessData()
-            
-      
         
+        mapLayer.selectAll('path')
+            .data(json.features)
+            .enter().append('path') 
+            .attr('d', path)
+            .attr('vector-effect', 'non-scaling-stroke')
+            .style('fill', fillFn)
+              .on('mouseover', mouseover)
+              .on('mouseout', mouseout)
+              .on('click', clicked);
+
+        d3.json("dataF.json", (data) => {
+          fillSelect(data);
+          daySelect();
+          selecHour(data);
+          getSalle(data, json)
+
+        })
         });
 
 
@@ -142,16 +116,36 @@ d3.json("usthbBrut2.geojson", function(json) {
         }));
 
 
+function changeColor(){
+  var x;
+  var keyJ = arrSelectedVal["jour"];
+  var keyH = arrSelectedVal["heure"];
+  resetColorClassrooms(geojson, classrooms, color);
+  console.log(classrooms);
+  classrooms.length = 0; // empty the classrooms array
+  schedules.forEach(function (schedule){ 
+      x = d3.values(schedule.Jour[keyJ][keyH]);
+      if(arrSelectedVal["spec"] == schedule.Filere)
+      {
+          fill(x, schedule, classrooms, "#00FF00");
+      }else{
+          fill(x, schedule, classrooms, "#FF0000");
+      }
+  });
+}
+function fillMap(salles){
+    if(d.properties.name in salles){
+      return mapLayer.attr("fill", "red")
+    }
+else mapLayer.attr("fill", fillFn);
+}
 // loading and processing data 
-
 const loadAndProcessData = () => {
 
   d3.json("dataF.json", (data) => {
     getSalle(data);
-    fillSelect(data);
-    daySelect();
-    // getSalle(objTable);
-    // console.log(Object.keys(data[0].Jour)[0]);
+    d3.select(path).attr('fill', changeColor())
+    
   })
 }
 var selected = [];
@@ -169,39 +163,52 @@ document.getElementById('submit').onclick = function() {
           selected.push(option.value);
       }
   }
+  for (var option of document.getElementById('Hour').options)
+  {
+      if (option.selected) {
+          selected.push(option.value);
+      }
+  }
   specSelected();
   console.log(selected)
-  // alert(selected);
   // selected = []
 }
-const getSalle = (data) => {
+const getSalle = (data, geojson, classrooms) => {
   var salle = []
-    for (var i in data)
+  data.forEach(function (data){ 
+    x = d3.values(data.Jour[selected[1]][selected[2]]);
+    if(selected[0] == data.Filere)
     {
-        for (var j in data[i].Jour)
-        {
-            for (var k in data[i].Jour[j])
-            {
-                for (var l in data[i].Jour[j][k])
-                {
-                    if(salle.indexOf(trim(""+data[i].Jour[j][k][l].Salle)) === -1 && trim(""+data[i].Jour[j][k][l].Salle) != "" )
-                    {
-                        salle.push(trim(""+data[i].Jour[j][k][l].Salle))
-                    }
-                }
-            }
-        }
+      fill(x, data, classrooms, "red");
     }
+  });
+  console.log(salle)
     salle.sort();
-    // console.log(salle)
     return salle;
+}
+function fill(x, schedule, classrooms, color)
+{
+    var object = {};
+    x.forEach(function(d){
+            object = {
+            speciality : schedule.Filere,
+            grade : schedule.Grade,
+            section : schedule.Section,
+            module : d.Module,
+            nomSalle : d.Salle,
+            prof : d.Prof,
+            groupe : d.Groupe,
+            type : d.Type,
+            color : color,
+            heure : selected[2],
+            jour : selected[1]
+        };
+        classrooms.push(object);
+    });
 }
 
 
-// la il me faut spliter la dataset pour que je puisse itterer les salles de chaque specialite
-// il suffit juste de prendre le resultat d'un select, le retourner comme parametre dans une
-//fonction pour remplir un tableau des objets specifiques, une fois selectionné on cherche les salles
-function readTextFile(file, callback) {
+        function readTextFile(file, callback) {
   var rawFile = new XMLHttpRequest();
   rawFile.overrideMimeType("application/json");
   rawFile.open("GET", file, true);
@@ -216,7 +223,6 @@ const fillSelect = (data)=>{
   var specialites = []
   for (var i in data)
   {
-      // console.log(data[i].Filere)
       specialites.push(trim(data[i].Filere))
   }
   // remove duplicates
@@ -227,10 +233,7 @@ const fillSelect = (data)=>{
 }, [])
   console.log(specialites)
   specialites.sort();
-
-  //dealing with html selects
   specSelect = document.getElementById('SpecID');
-  // console.log(specSelect)
     for (var i = 0; i<specialites.length; i++)
     {
         var opt = document.createElement('option');
@@ -238,7 +241,6 @@ const fillSelect = (data)=>{
         opt.innerHTML = specialites[i];
         specSelect.appendChild(opt);
     }
-  // return specialites;
 }
 
 // get the selected speciality 
@@ -249,31 +251,23 @@ function specSelected()
     {
     var objTable = [];
     var data = JSON.parse(text);
-    // console.log(selected[0])
     for (var i in data)
     {   
-      // console.log(selected[0])
       if( trim(""+data[i].Filere) == selected[0])
       {
-        // console.log("hello there1")
         for (const j in d3.range(0, 6)) {
           if (Object.keys(data[i].Jour)[j] == selected[1] ) {
-            // console.log("hello there2")
             console.log(data[i])
-            // console.log(data[i].Filere);
             objTable.push(data[i])  
           }
         }
        
       }    
     }
-    console.log(objTable)
-    console.log(getSalle(objTable))
-    return getSalle(objTable);
-  });
     // console.log(objTable)
     // console.log(getSalle(objTable))
-    
+    // return getSalle(objTable);
+  });   
 }
 
 function daySelect(){
@@ -296,58 +290,22 @@ function daySelect(){
           }
     });
 }
+function selecHour(data){
+  objh = []
+  objh.push(Object.keys(data[0].Jour.Sam));
+  objh = objh[0]
+  console.log(objh)
+  let daySelect = document.getElementById('Hour');
+        for (var i = 0; i<objh.length; i++)
+          {
+              var opt = document.createElement('option');
+              // console.log(objTable[i])
+              opt.value = objh[i];
+              opt.innerHTML = objh[i];
+              daySelect.appendChild(opt);
+          }
 
-
-function switchDays(day)
-{
-    var j = 0 ;
-    switch(day) {
-      case "Sam":
-        j = 1 
-        break;
-      case "Dim":
-        j = 2 
-        break;
-      case "Lun":
-        j = 3 
-        break;
-      case "Mar":
-        j = 4 
-        break;
-      case "Mer":
-        j = 5 
-        break;
-      case "Jeu":
-        j = 6 
-        break;
-    }
-    return j;
-}
-
-function switchHeure(heure)
-{
-    var j = 0 ;
-    switch(heure) {
-      case "08:00 - 09:30":
-        j = 1 
-        break;
-      case "09:40 - 11:10":
-        j = 2 
-        break;
-      case "11:20 - 12:50":
-        j = 3 
-        break;
-      case "13:00 - 14:30":
-        j = 4 
-        break;
-      case "14:40 - 16:10":
-        j = 5 
-        break;
-      case "16:20 - 17:50":
-        j = 6 
-        break;
-    }
-    return j;
+  
 }
 
 function trim(str){

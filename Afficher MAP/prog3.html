@@ -11,50 +11,67 @@
 	</head>
 	<body style="overflow: hidden;">
 
-		<label for="Features">Features : </label>
-		<select onchange="" name="" id="SpecID">
-			<option value="0">Select Speciality</option>
-		</select>
-		<select id="day" onchange="">
-			<option value="0">Select Day</option>
-		</select>
+		<div class="container">
+			<div class="firstFeature">
+				<label for="Feature">Feature 1: </label>
+				<div class="sel sel--black-panther">
+					<select onchange="" name="" id="SpecID">
+						<option value="0" disabled>Select Speciality</option>
+					</select>
+				</div class="sel sel--superman">
+				<div>
+					
+					<select id="day" onchange="">
+						<option value="0" disabled>Select Day</option>
+					</select>
+				</div>
+				<div>
+					<select id="Hour" onchange="">
+						<option value="0" disabled>Select Hour</option>
+					</select>
+					<button id="submit" onclick="captUserValues(this)">Submit choices</button>
+				</div>
+			</div>
+			
 
-		<button id="submit">Submit choices</button>
+			<div class="secFeature">
+				<label for="Feature">Feature 2: </label>
+				<div class="sel sel--black-panther">
+					<select onchange="" name="" id="IDProf">
+						<option value="0" disabled>Select Speciality</option>
+					</select>
+				</div class="sel sel--superman">
+				<div>
+					
+					<select id="day2" onchange="">
+						<option value="0" disabled>Select Day</option>
+					</select>
+				</div>
+				<div>
+					<select id="Hour2" onchange="">
+						<option value="0" disabled>Select Hour</option>
+					</select>
+					<button id="submit2" onclick="captUserValues(this)">Submit choices</button>
+				</div>
+			</div>
 
-		<div class="navigation__background">&nbsp;</div>
-		<nav class="navigation__nav">
-			<ul class="navigation__list">
-			  <li class="navigation__item">
-				<a href="#about" class="navigation__link link1">Afficher les salles occupées dans un jour</a>
-			  </li>
-			  <li class="navigation__item">
-				<a href="#features" class="navigation__link link2">Afficher les salles occupées par chaque specialité</a>
-			  </li>
-			  <li class="navigation__item">
-				<a href="#tours" class="navigation__link link3">Afficher la localisation d'un prof</a>
-			  </li>
-			  <!-- <li class="navigation__item">
-				<a href="#story" class="navigation__link link4">Best Players</a>
-			  </li>
-			  <li class="navigation__item">
-				<a href="#book" class="navigation__link link5">Play now</a>
-			  </li> -->
-			</ul>
-		  </nav>
 
-		  <div id="app">
+		</div>
+
+		
+		
+
+		  <div id="app" class="details">
 
 			<!-- <h2 v-if="province" class="province-title">{{province.name}}</h2> -->
-			<div v-if="currentProvince" class="province-info">
-				<h3 class="text-center">{{currentProvince.name}}</h3>
-				<ul>
-				  <li>info1: {{currentProvince.name}}</li>
-				  <li>info2: {{currentProvince.name}}</li>
+			<div class="province-info" id="Division">
+				<ul id="liste">
 				</ul>
-			  </div>
+			</div>
 			<svg></svg>
 		  </div>
-		  <script type="text/javascript" src="loadAndProcess.js"></script>
+		  <script type="text/javascript" src="traitement.js"></script>
+		  <!-- <script type="text/javascript" src="loadAndProcess.js"></script> -->
 
 	</body>
 </html>
