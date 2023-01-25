@@ -571,7 +571,7 @@ function fillProf(x, schedule, classrooms, color, keyJ, keyH)
 // ==========================================================================================
 // affichage
 
-d3.json("usthbBrut2.geojson", function(json) {
+d3.json("usthb.geojson", function(json) {
     var b = path.bounds(json);
     // console.log(b);
         s = .99 / Math.max( (b[1][0] - b[0][0]) / w , (b[1][1] - b[0][1]) / h ); 
