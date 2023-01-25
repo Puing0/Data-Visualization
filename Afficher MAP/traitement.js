@@ -4,7 +4,10 @@
 var w = 700;
 var h = 700;
 var classrooms = [];
-var selected = []
+var selected = [];
+var selected2 = [];
+let arraySpec = [];
+var profs = [];
 
 const app = new Vue({
     el: '#app',
@@ -64,7 +67,7 @@ const effectLayer = g.append('g')
 const mapLayer = g.append('g')
                 .classed('map-layer', true);
 
-let arraySpec = [];
+
 
 // ===============================================================================================
 // funtions 
@@ -230,23 +233,6 @@ const SelectProf2 = (data)=>{
 
 // =============================================================================================
 // remplir tableau des salles a partir des selects 
-function getObjects(data, geojson, selected){
-    var x;
-    var keyJ = selected[1];
-    var keyH = selected[2];
-    resetColorClassrooms(geojson, classrooms, color);
-    console.log(classrooms);
-    classrooms.length = 0; // empty the classrooms array
-    schedules.forEach(function (schedule){ 
-        x = d3.values(schedule.Jour[keyJ][keyH]);
-        if(arrSelectedVal["spec"] == schedule.Filere)
-        {
-            fill(x, schedule, classrooms, "#00FF00");
-        }else{
-            fill(x, schedule, classrooms, "#FF0000");
-        }
-    });
-}
 
 function resetColorClassrooms(geojson, classrooms, color, selected)
 {
@@ -277,7 +263,7 @@ function colorClassrooms(geojson, classrooms)
 }
 
 
-function fill(x, schedule, classrooms, color)
+function fill(x, schedule, classrooms, color, keyJ, keyH)
 {
     var object = {};
     x.forEach(function(d){
@@ -291,8 +277,8 @@ function fill(x, schedule, classrooms, color)
             groupe : d.Groupe,
             type : d.Type,
             color : color,
-            heure : selected[2],
-            jour : selected[1]
+            heure : keyH,
+            jour : keyJ
         };
         classrooms.push(object);
     });
@@ -300,7 +286,6 @@ function fill(x, schedule, classrooms, color)
 
 function captUserValues(submit, selected, schedules, geojson)
 {               
-    console.log("here i am i got into the func")
     submit.onclick = function (){
         // while(selected.length ==0);
         selected = []
@@ -330,15 +315,52 @@ function captUserValues(submit, selected, schedules, geojson)
         console.log(selected)
         if(selected.length != 0)
         {
-            filleClassroomsArr(schedules, geojson, '#FFFAFA', selected);
+            filleClassroomsArr(schedules, geojson, '#08304b', selected);
             colorClassrooms(geojson, classrooms, selected);
         }else{
-            resetColorClassrooms(geojson, classrooms, '#FFFAFA', selected);
+            resetColorClassrooms(geojson, classrooms, '#08304b', selected);
         }
-        console.log("here i am i got out the func")
     }
         
 
+}
+
+function captUserValuesProf(submit, selected2, schedules, geojson){
+    submit.onclick = function (){
+        // while(selected.length ==0);
+        selected2 = []
+        for (var option of document.getElementById('IDProf').options)
+        {
+            if (option.selected) {
+            // selected[0]= String(option.value)
+                selected2.push(option.value);
+                }
+        }
+        for (var option of document.getElementById('day2').options)
+        {
+            if (option.selected) {
+            // selected[1]= String(option.value)
+    
+                selected2.push(option.value);
+            }
+        }
+        for (var option of document.getElementById('Hour2').options)
+        {
+            if (option.selected) {
+            // selected[2]= String(option.value)
+                selected2.push(option.value);
+            }
+        }
+    // console.log(selected)
+        console.log(selected2)
+        if(selected2.length != 0)
+        {
+            fillClassroomArrProf(schedules, geojson, '#08304b', selected2);
+            colorClassrooms(geojson, classrooms, selected2);
+        }else{
+            resetColorClassrooms(geojson, classrooms, '#08304b', selected2);
+        }
+    }
 }
 
 // ==========================================================================================
@@ -399,14 +421,6 @@ function clicked(d) {
       centered = null;
       app.closeInfo();
     }
-  
-    // Highlight the clicked province
-    // mapLayer.selectAll('path')
-    //   .style('fill', function(d){
-    //     if(centered && d===centered){
-    //         return '#D5708B'
-    //     }
-    // });
   
     // Zoom
     g.transition()
@@ -490,14 +504,70 @@ function filleClassroomsArr(schedules, geojson, color, selected)
                 // console.log(x);
                 if(selected[0] == schedule.Filere)
                 {
-                    fill(x, schedule, classrooms, "#00FF00");
+                    fill(x, schedule, classrooms, "#00FF00", keyJ, keyH);
                     console.log("hey this is first log showing classrooms")
                     console.log(classrooms);
                 }else{
-                    fill(x, schedule, classrooms, "#FF0000");
+                    fill(x, schedule, classrooms, "#FF0000", keyJ, keyH);
                 }
             });
         }
+
+function fillClassroomArrProf(schedules, geojson, color, selected2){000000000000000
+    console.log("filling classrooms")
+    var x;
+    console.log(selected2)
+    var keyJ = selected2[1];
+    var keyH = selected2[2];
+    console.log("shibal juuuuum")
+    console.log(selected2[1], selected2[2])
+    resetColorClassrooms(geojson, classrooms, color);
+    console.log("classrooms======================");
+    // console.log(classrooms)
+    classrooms.length = 0; // empty the classrooms array
+    schedules.forEach(function (schedule){ 
+        x = d3.values(schedule.Jour[keyJ][keyH]);
+        // console.log(x);
+        // console.log(schedule)
+        if (schedule.Jour[keyJ][keyH]) {
+            for (const i in schedule.Jour[keyJ][keyH]) {
+                
+                if(selected2[0] == trim(""+schedule.Jour[keyJ][keyH][i].Prof) )
+                {
+                    console.log(schedule);
+                    x = x.filter(function(y){
+                        return trim(""+y.Prof) == selected2[0];
+                    });
+                    console.log(x)
+                    fillProf(x, schedule, classrooms, "#00FF00", keyJ, keyH);
+                    console.log("hey this is first log showing classrooms")  
+                }
+            }
+            
+        }
+    });
+    console.log(classrooms);
+}
+function fillProf(x, schedule, classrooms, color, keyJ, keyH)
+{
+    var object = {};
+    x.forEach(function(d){
+            object = {
+            speciality : schedule.Filere,
+            grade : schedule.Grade,
+            section : schedule.Section,
+            module : d.Module,
+            nomSalle : d.Salle,
+            prof : d.Prof,
+            groupe : d.Groupe,
+            type : d.Type,
+            color : color,
+            heure : keyH,
+            jour : keyJ
+        };
+        classrooms.push(object);
+    });
+}
 // ==========================================================================================
 // affichage
 
@@ -545,6 +615,9 @@ d3.json("usthbBrut2.geojson", function(json) {
             var submit = document.getElementById("submit")
             console.log(submit)
             captUserValues(submit, selected, data, json)
+            var submit2 = document.getElementById("submit2")
+            console.log(submit2)
+            captUserValuesProf(submit2, selected2, data, json)
                 
           })
         });
