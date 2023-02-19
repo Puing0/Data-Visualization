@@ -11,7 +11,7 @@ Dans ce projet il s’agit de visualiser les activités de la faculté Informati
   groupe et/ou la section, et l’enseignant.
   Ajouter la visualisation des locaux utilisés par un enseignant donné.
 
-#Structure de projet 
+# Structure de projet 
 le premier repertoire contient le projet initiale de l'affichage du map et traitement sur les données par d3js
 je vous mets aussi un script python pour la generation de fichier JSON contenant les details de chaque spécialitée
 à partir des PDF des EDT.
